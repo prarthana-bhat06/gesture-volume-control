@@ -95,3 +95,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = VolumeControlApp(root)
     root.mainloop()
+![image](https://github.com/user-attachments/assets/582a01d2-7b10-4eb9-a27c-9d7ef0fd6e39)
